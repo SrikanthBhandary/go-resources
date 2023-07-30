@@ -18,7 +18,7 @@
 
 [GOTO 2017 - Beyond Developer - Dan North](https://www.youtube.com/watch?v=wYEk0y8LYfg)
 
-[GOTO 2017 - Patterns of Effective Teams - Dan North](https://www.youtube.com/watch?v=lvs7VEsQzKY)
+[GOTO 2017 - Patterns of Effective Teams - Dan North](https://www.youtube.com/watch?v=lvs7VEsQzKY)  - **DONE**
 
 [GOTO 2016 - Software, Faster - Dan North](https://www.youtube.com/watch?v=USc-yLHXNUg)
 

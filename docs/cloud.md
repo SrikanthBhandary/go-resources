@@ -20,7 +20,7 @@
 
 [GOTO 2019 - Practical API Design - Ronnie Mitra](https://www.youtube.com/watch?v=272ZZ53HS_4)
 
-[GOTO 2018 - Containers From Scratch - Liz Rice](https://www.youtube.com/watch?v=8fi7uSYlOdc)
+~~[GOTO 2018 - Containers From Scratch - Liz Rice](https://www.youtube.com/watch?v=8fi7uSYlOdc)~~
 
 [GOTO 2018 - Insecure Transit - Microservice - Sam Newman](https://www.youtube.com/watch?v=1sjqHlLuRw8)
 

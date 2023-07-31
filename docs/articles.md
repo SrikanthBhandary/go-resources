@@ -90,7 +90,7 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [How I write my unit tests in Go quickly](https://dev.to/ilyakaznacheev/how-i-write-my-unit-tests-in-go-quickly-4bd5?utm_source=dormosheio&utm_campaign=dormosheio)
 
-[How to handle errors in Go?](https://web3.coach/golang-how-to-handle-errors-five-rules) **DONE**
+~~[How to handle errors in Go?](https://web3.coach/golang-how-to-handle-errors-five-rules) ~~
 
 [How to ship production-grade Go](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
 

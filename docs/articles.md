@@ -76,7 +76,7 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Go: What Does a Goroutine Switch Actually Involve?](https://medium.com/a-journey-with-go/go-what-does-a-goroutine-switch-actually-involve-394c202dddb7)
 
-[Golang: Debugging memory leaks using pprof](https://dev.to/davidsbond/golang-debugging-memory-leaks-using-pprof-5di8)
+~~[Golang: Debugging memory leaks using pprof](https://dev.to/davidsbond/golang-debugging-memory-leaks-using-pprof-5di8)~~
 
 [Grep from First Principles, in Golang](https://willdemaine.ghost.io/grep-from-first-principles-in-golang/)
 
